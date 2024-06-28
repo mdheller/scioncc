@@ -101,7 +101,7 @@ setup(  name='scioncc',
             'greenlet==0.4.9',
 
             # Pin dependent libraries (better in buildout/versions?)
-            'httplib2==0.9.2',
+            'httplib2==0.19.0',
             'pyzmq==15.4.0',            # For IPython manhole
             'cffi==0.9.2',
             'oauthlib==0.7.2',
