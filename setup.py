@@ -74,7 +74,7 @@ setup(  name='scioncc',
             'setuptools',
             # Advanced packages
             'pyproj==1.9.4',           # For geospatial calculations
-            'numpy==1.9.2',
+            'numpy==1.22.0',
 
             # HTTP related packages
             'flask-socketio==0.4.1',
