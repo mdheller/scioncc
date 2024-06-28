@@ -80,7 +80,7 @@ setup(  name='scioncc',
             'flask-socketio==0.4.1',
             'flask-oauthlib==0.9.1',
             'Flask==0.10.1',
-            'requests==2.5.3',
+            'requests==2.32.2',
 
             # Basic container packages
             'graypy==0.2.11',           # For production logging (used by standard logger config)
