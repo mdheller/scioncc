@@ -79,7 +79,7 @@ setup(  name='scioncc',
             # HTTP related packages
             'flask-socketio==0.4.1',
             'flask-oauthlib==0.9.1',
-            'Flask==0.10.1',
+            'Flask==2.2.5',
             'requests==2.5.3',
 
             # Basic container packages
